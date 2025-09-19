@@ -1,0 +1,11 @@
+{
+    "code": 404,
+    "msg": "stat /home/tianyu/SiYuan/data/snippets/Savor.config.json: no such file or directory",
+    "data": null,
+    "buttonSavor-light": "1",
+    "buttonsalt": "0",
+    "buttonsugar": "0",
+    "buttonforest": "0",
+    "buttonflower": "0",
+    "buttonwind": "0"
+}
