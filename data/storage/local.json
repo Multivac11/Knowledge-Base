@@ -3,8 +3,8 @@
   "local-dialogposition": {
     "dialog-emojis": {
       "height": 563,
-      "left": 72,
-      "top": 102,
+      "left": 96,
+      "top": 226,
       "width": 368
     },
     "dialog-setting": {
@@ -65,13 +65,28 @@
       "rootId": "20250919094119-k61nel3",
       "scrollTop": 0,
       "startId": "20250919094119-ovjtjjt"
+    },
+    "20250919142416-bumqf8f": {
+      "endId": "20250919142416-58gkah7",
+      "rootId": "20250919142416-bumqf8f",
+      "scrollTop": 0,
+      "startId": "20250919142416-58gkah7"
+    },
+    "20250919142555-nftp5z0": {
+      "endId": "20250919142555-ok8zbgv",
+      "focusEnd": 0,
+      "focusId": "20250919142555-ok8zbgv",
+      "focusStart": 0,
+      "rootId": "20250919142555-nftp5z0",
+      "scrollTop": 0,
+      "startId": "20250919142555-ok8zbgv"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20250918204445-8mv4t9y",
       "openPaths": [
-        "/20250919121256-dyhc8x1.sy"
+        "/20250919142406-sdnspu4/20250919143917-1oq6bqn.sy"
       ]
     }
   ]
