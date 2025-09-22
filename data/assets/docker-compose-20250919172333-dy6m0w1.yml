@@ -1,0 +1,14 @@
+services:
+  portainer:
+    image: portainer/portainer-ce:2.27.6-linux-amd64
+    container_name: portainer
+    restart: always
+    ports:
+      - "9000:9000"
+      - "9443:9443"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data
+      - /etc/resolv.conf:/etc/resolv.conf
+volumes:
+  portainer_data:
