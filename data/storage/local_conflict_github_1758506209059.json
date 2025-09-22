@@ -1,10 +1,10 @@
 {
-  "local-codelang": "python",
+  "local-codelang": "",
   "local-dialogposition": {
     "dialog-emojis": {
-      "height": 564,
+      "height": 563,
       "left": 96,
-      "top": 157,
+      "top": 226,
       "width": 368
     },
     "dialog-setting": {
@@ -43,13 +43,13 @@
       "startId": "20250918201623-xkc052m"
     },
     "20250918204450-8534iqz": {
-      "endId": "20250919142857-vpnlono",
-      "focusEnd": 0,
-      "focusId": "20250919142857-vpnlono",
-      "focusStart": 0,
+      "endId": "20250918211104-p23u6rb",
+      "focusEnd": 15,
+      "focusId": "20250918211104-fvk3avq",
+      "focusStart": 15,
       "rootId": "20250918204450-8534iqz",
       "scrollTop": 0,
-      "startId": "20250919142857-vpnlono"
+      "startId": "20250918211104-fvk3avq"
     },
     "20250919094118-mf1o44z": {
       "endId": "20250919094118-gibc6q1",
@@ -72,15 +72,6 @@
       "scrollTop": 0,
       "startId": "20250919142416-58gkah7"
     },
-    "20250919142525-dor3myr": {
-      "endId": "20250919142525-g0e9pt7",
-      "focusEnd": 0,
-      "focusId": "20250919142525-g0e9pt7",
-      "focusStart": 0,
-      "rootId": "20250919142525-dor3myr",
-      "scrollTop": 0,
-      "startId": "20250919142525-g0e9pt7"
-    },
     "20250919142555-nftp5z0": {
       "endId": "20250919142555-ok8zbgv",
       "focusEnd": 0,
@@ -89,46 +80,7 @@
       "rootId": "20250919142555-nftp5z0",
       "scrollTop": 0,
       "startId": "20250919142555-ok8zbgv"
-    },
-    "20250919142958-xq0t6pv": {
-      "endId": "20250919142958-du8zjun",
-      "focusEnd": 0,
-      "focusId": "20250919142958-du8zjun",
-      "focusStart": 0,
-      "rootId": "20250919142958-xq0t6pv",
-      "scrollTop": 0,
-      "startId": "20250919142958-du8zjun"
-    },
-    "20250919143917-1oq6bqn": {
-      "endId": "20250919143917-9anaokd",
-      "focusEnd": 0,
-      "focusId": "20250919143917-9anaokd",
-      "focusStart": 0,
-      "rootId": "20250919143917-1oq6bqn",
-      "scrollTop": 0,
-      "startId": "20250919143917-9anaokd"
-    },
-    "20250919174035-uwpoi91": {
-      "endId": "20250919174341-hk6zydr",
-      "focusEnd": 0,
-      "focusId": "20250919174600-0if3r39",
-      "focusStart": 0,
-      "rootId": "20250919174035-uwpoi91",
-      "scrollTop": 0,
-      "startId": "20250919174035-pu2gfnl"
     }
   },
-  "local-filespaths": [
-    {
-      "notebookId": "20250918204445-8mv4t9y",
-      "openPaths": [
-        "/20250922122850-j8rig4v/20250919174035-uwpoi91.sy",
-        "/20250919142406-sdnspu4/20250919142958-xq0t6pv/20250919142518-vhg36i4.sy",
-        "/20250918204450-8534iqz/20250919142836-qjk0i9n.sy"
-      ]
-    }
-  ],
-  "local-fontstyles": [
-    "style1​​"
-  ]
+  "local-filespaths": []
 }

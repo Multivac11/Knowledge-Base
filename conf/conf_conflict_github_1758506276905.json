@@ -127,15 +127,15 @@
     "generateHistoryInterval": 10,
     "historyRetentionDays": 30,
     "emoji": [
-      "1f427",
-      "1f4be",
       "1f5a5-fe0f",
       "2328-fe0f",
       "1f433",
       "1f422",
       "1f4e6",
       "1f503",
-      "26f4-fe0f"
+      "1f427",
+      "26f4-fe0f",
+      "1f4be"
     ],
     "virtualBlockRef": false,
     "virtualBlockRefExclude": "",
@@ -178,7 +178,7 @@
     "tagOpenMarker": "#",
     "tagCloseMarker": "#",
     "fileAnnotationRefMode": 0,
-    "pandocBin": "/home/tianyu/SiYuan/temp/pandoc/bin/pandoc",
+    "pandocBin": "D:\\siyuan_workspace\\temp\\pandoc\\bin\\pandoc.exe",
     "markdownYFM": false,
     "inlineMemo": false,
     "pdfFooter": "%page / %pages",
@@ -274,37 +274,37 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1758539404552",
+                      "activeTime": "1758345834137",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250919142836-qjk0i9n",
+                        "blockId": "20250904221416-c0emgca",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20250918204445-8mv4t9y",
-                        "rootId": "20250919142836-qjk0i9n"
-                      },
-                      "docIcon": "1f4e6",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Docker部署"
-                    },
-                    {
-                      "activeTime": "1758540459337",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250922192739-4vche0j",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250918204445-8mv4t9y",
-                        "rootId": "20250922192739-4vche0j"
+                        "notebookId": "20250831211605-3vw7res",
+                        "rootId": "20250904221416-c0emgca"
                       },
                       "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "Docker常用指令"
+                      "title": "INVC伊诺维克实验室简介"
                     },
                     {
-                      "activeTime": "1758540477816",
+                      "activeTime": "1758345834801",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250830161256-pfjjsgl",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250830161241-2ooyguq",
+                        "rootId": "20250830161256-pfjjsgl"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "实习报告"
+                    },
+                    {
+                      "activeTime": "1758345843583",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250919142555-nftp5z0",
@@ -319,7 +319,8 @@
                       "title": "Git常用指令"
                     },
                     {
-                      "activeTime": "1758529910320",
+                      "active": true,
+                      "activeTime": "1758345845411",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250919121256-dyhc8x1",
@@ -334,53 +335,22 @@
                       "title": "Portainer部署与使用"
                     },
                     {
-                      "activeTime": "1758515358019",
+                      "activeTime": "1758345836554",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20250919142406-sdnspu4",
+                        "blockId": "20250919142518-vhg36i4",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20250918204445-8mv4t9y",
-                        "rootId": "20250919142406-sdnspu4"
+                        "rootId": "20250919142518-vhg36i4"
                       },
-                      "docIcon": "1f422",
+                      "docIcon": "",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "ROS2"
+                      "title": "Topic CLI工具"
                     },
                     {
-                      "activeTime": "1758540478267",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250922122850-j8rig4v",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250918204445-8mv4t9y",
-                        "rootId": "20250922122850-j8rig4v"
-                      },
-                      "docIcon": "1f427",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Linux"
-                    },
-                    {
-                      "active": true,
-                      "activeTime": "1758540482537",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20250919174035-uwpoi91",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20250918204445-8mv4t9y",
-                        "rootId": "20250919174035-uwpoi91"
-                      },
-                      "docIcon": "1f4be",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "部署Ubuntu"
-                    },
-                    {
-                      "activeTime": "1758540482130",
+                      "activeTime": "1758345843263",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20250919142416-bumqf8f",
@@ -393,6 +363,36 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "Linux常用指令"
+                    },
+                    {
+                      "activeTime": "1758345840142",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250919142836-qjk0i9n",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250918204445-8mv4t9y",
+                        "rootId": "20250919142836-qjk0i9n"
+                      },
+                      "docIcon": "1f4e6",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Docker部署"
+                    },
+                    {
+                      "activeTime": "1758345835788",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20250919142525-dor3myr",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20250918204445-8mv4t9y",
+                        "rootId": "20250919142525-dor3myr"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "Service CLI工具"
                     }
                   ],
                   "height": "",
@@ -568,7 +568,7 @@
       "pin": true
     }
   },
-  "userData": "d716d5d6812229ac440f08261821941a4becd733a1265b29cdbbb4a3d26d61e5d0c83682f6a05c61631f9095eab9a4263cd961f23f33688800f2c8e857ccb6aad254f68517346e4782eb0a8181e198a5b6623a8b519661508af1d6e1579befe839301eaa26c1b7701a24679e0c6f31da4071a3237f7c54e5b61421256ac2c531b42ead91b9e8e74433527a4ebf5a7abc6a9ebfc9e89147a9253f3ae1912cd908d72e93be3bf52edab5807bb85f0c808de5f0f6d521ee0f71bdfd5ef7b8bb86784afa579695790e04b31addd8bed5e183dd94f4713eebbfcec1dce240f7bdba7955e2198585cd8480629e65b101ebfe624e6c9464904637be8e327493b26c1ea163d4bcf15ded8288101da712ca420680bcf5b37f63ad10dee438bac865285cff2f50cc60b0bf73efab5db82d74d699993d25c21c1311c16813ac18e26a0671c5f1d28e88fb94b2390bad691f8e77025e2ff54d2e529aba68fda0f3939da408f2a3970b2fa15fc6ea9cd90a8a036753c20515b94620edd478ae35aeff9bb51c548685c73ae3fa3897dbfc371a1311c0fd7fc206c6baa1423e8ebcd2339b65d0405be9da06cccd71bca3e8af2d90f8643c414c0314246ad9225b00f96a442b934fb4f797d72ccc42277c88fa2870361b75f28b410fcbc06e1c577dcb9e0335029c6f7bdf4f6adf1102a3d2cb25652094f60353352ce4511a423d5221aca51b209877954d2706df30974e61f0853260988118c56b2b35253de4ee24666a0ee73c5ee328cb95e74aae28b03c980c2be97fc2badf48a4a6f196b059f4a86b4474b7841dc7f5f9c54d90016a06cd5c14bb47d2e9960a126dc4d4c7e16179fdb71836796f3781d7c23f9c7c6603be5874628e71d559bc1d9a030aaf8723283abb5ea27d1b45a9522101d7bc3e7582c40ae848459bf5481ec57cc91772f45c284913ee2eb44873eda942c5c618859ab313856178e437dd9d2accdb41551a4a75ca3acca8d6cee7bdd8f559e866845927248f84b44435d0b949575b679776de555656e29135ec1095899a3f60c520104ed245d3279ff71b6518446eb270965c7327de26ce0cf3eb07b4b94dfe753855110659c9067c6c989ab3fe3998c80117c01ecd34815052d4f58d48d1fac08553f09f264ae9932cf020ffbc656b9efbff8b8414e1d9072525fede3c5b8e737887c26b3594380e2a191f12daa8b5b476062719ec4e620e34eb338ee74cb45bf4377b86485f8d2191d5bc52427c3aa36f706b30f99aa190d9dbaf54baac8d2a1fed9be29e721ef9b0a973da1c31aa8bb653deed27c2aaf2cc3f56b8c159af5df99cf2521f654c9d05116545725edb44b8989ee34b6c81a26710474d699926a2a9e8d0ae741c9a1e64b66cf39a57a6aa83ce85fa98339513b0ca3d3cb0bbaf2a980d5c7d15e06c5bcf302528b0bfd006e5369b6a5e31a79821580cee4497f77c7ef8e817190541befefcf35162072055949afff14a2da894743e84123261fb06954396fb2a2bed015f39eb9b43798ccc8d44b4004e6ae6dc565f791f996f2d9a5d3ccb0f2965b14bf0e2be27820f193fee886d0f2849fa60eb29865437bf4120764c94e6db823d132bf716ae4fff39ac5c06c0af93ea371936ad13d16875b020350a72e93cb17af00b34c379afac90fe15aded4d5ee23a42cf63b23ec9004c16a9750372aa756854cdfe16af9faf9cb4ceea5b596445ff7518d9cfa5d67e9ff0b750ccbe6f92a1ba3bc03d94072e225332d151c42a3f405e365f9afcfccf036bb6d1ee8bfe88eb825ab7fb5f6fee0c3e822324b23d338d0edc4433f11d5822ec36a089a09ca506b4583cf2838180c2e4cac3493637bd7fe0ba4b3a7f2f611d179b6b4a3841039349283e83c622d4a25a072ebdc7e35d05833ace3f6cf2dfc5b733d9ef07aec1c874bf32024b49cc2dce008a667f6f387472b6056036f498dfbc9042310044d2b85dcf8942654298e9eea1578e03cd53b78475a124ec5f9bf3ef0e4618f53151410851f18da7785a14c38a0c2811f6b79f98884559271af7f9647c7dccb35ceb5d59dab332154bbda469012a320c095ea4ee97bc867a62e5145dd16f46e49447283dc474874a51f034d253b90f5b1a3c783c198ef8d90c9755e5d22eef579e10048cb5bccbe3d7237d745d7337710ef160826ca4c3819003efe67c2a8b48c99c8835d9688718c9608eca726d4b7dbb7dfc0e90d96aae4c270fceb25832b4372d5099cefeabfde02d4ab70c7bbec7d594c5d4658b4aa034439edf70612e3f7ff4e3a5c1b07baa6c1f87cedc90818744dbf8e5fe3ba6986fee22f05586ffb43d640d32ef80b40ff44274256a9d2f6aa0f06413c0f763319f09da8c38751aab0bfc3a5a39297b0e220732186f0daf4cc9c4c16f77b94d7e60bd60a2127a8faf5a0e51675190de88d9ea290d82c692d33218d23e885109df695a38aa72b047b3b805ab96938d422d1a80231fb7a2f902cac6bd886228dccdd88567f23c96c20394fe116a2cd12bdffe637c1e56d0c345170926c59c13cc4de44a896eab0fa60f4b9abf01dc2c984cac88a93e3363ea6b3dbd491a3c06c5dba28be700648f047d83994ffc62c28648d76809a5f2b14565713142a17d9d0fb512509b2cd5b75409bf406ffe417d4bf724285b0e9eafbb4b16e8720a34073fd350b8d1c5266964f8d09ff6e154534f5045ffc85e463635782be8d6f4b05dba7da11dc75455a51aab13443adbd633542dd4a7c4f87ec84ca8db4dcdee4a4faf072c86bb2262a1c5732010d194b0225fbcc6c42c29fe6307c2689c6567571e8eea79c7fab07eb32ff30acf53524fee1e2602d95bd9719379ab66b3a01773034ae8c7a3c3b00b39b8dc2a9b554389c8a082959136b37d61546eee558e9d455564ee776af926584d28271f3235a1f19ab7a62ac8685aeca658ff09ad2868c42b7a514af71c0ea30b38d8c04c9d564c26bfee23676e7698e175640b1a750012cab9eb23f839efef963f9e813fab12672532e7f58fbb6e786aeca38cf022e80479f4591059c029264a27c6f6430d63dd2e92410d4fce351f06ebbf61e6a1d26ff16248e72f3891dcdfc3b5d49d556cc2766294aec7ac80fff50ebaed20116ce31871bd96a804d1cd53f78a2e221416e4b558845bebfc43c1d6796398e8a06ca4c1e124b0987a88eee04333d39686d30c9e61ba51d75c580f100f2a1571753c7ec300dacf8b1a11e2a1cc9f9762a48b512300ec1fdf1ced35b6944c936ce9d2a885cf375db412d9bde71cdf8f2ab363402dfb60235fe3552622f76bc997a7",
+  "userData": "d716d5d6812229ac440f08261821941a4becd733a1265b29cdbbb4a3d26d61e5d0c83682f6a05c61631f9095eab9a4263cd961f23f33688800f2c8e857ccb6aad254f68517346e4782eb0a8181e198a5b6623a8b519661508af1d6e1579befe839301eaa26c1b7701a24679e0c6f31da4071a3237f7c54e5b61421256ac2c531b42ead91b9e8e74433527a4ebf5a7abc6a9ebfc9e89147a9253f3ae1912cd908d72e93be3bf52edab5807bb85f0c808de5f0f6d521ee0f71bdfd5ef7b8bb86784afa579695790e04b31addd8bed5e183dd94f4713eebbfcec1dce240f7bdba7955e2198585cd8480629e65b101ebfe624e6c9464904637be8e327493b26c1ea163d4bcf15ded8288101da712ca420680bcf5b37f63ad10dee438bac865285cff2f50cc60b0bf73efab5db82d74d699993d25c21c1311c16813ac18e26a0671c5f1d28e88fb94b2390bad691f8e77025e2ff54d2e529aba68fda0f3939da408f2a3970b2fa15fc6ea9cd90a8a036753c20515b94620edd478ae35aeff9bb51c548685c73ae3fa3897dbfc371a1311c0fd7fc206c6baa1423e8ebcd2339b65d0405be9da06cccd71bca3e8af2d90f8643c414c0314246ad9225b00f96a442b934fb4f797d72ccc42277c88fa2870361b75f28b410fcbc06e1c577dcb9e0335029c6f7bdf4f6adf1102a3d2cb25652094f60353352ce4511a423d5221aca51b209877954d2706df30974e61f0853260988118c56b2b35253de4ee24666a0ee73c5ee328cb95e74aae28b03c980c2be97fc2badf48a4a6f196b059f4a86b4474b7841dc7f5f9c54d90016a06cd5c14bb47d2e9960a126dc4d4c7e16179fdb71836796f3781d7c23f9c7c6603be5874628e71d559bc1d9a030aaf8723283abb5ea27d1b45a9522101d7bc3e7582c40ae848459bf5481ec57cc91772f45c284913ee2eb44873eda942c5c618859ab313856178e437dd9d2accdb41551a4a75ca3acca8d6cee7bdd8f559e866845927248f84b44435d0b949575b679776de555656e29135ec1095899a3f60c520104ed245d3279ff71b6518446eb270965c7327de26ce0cf3eb07b4b94dfe753855110659c9067c6c989ab3fe3998c80117c01ecd34815052d4f58d48d1fac08553f09f264ae9932cf020ffbc656b9efbff8b8414e1d9072525fede3c5b8e737887c26b3594380e2a191f12daa8b5b476062719ec4e620e34eb338ee74cb45bf4377b86485f8d2191d5bc52427c3aa36f706b30f99aa190d9dbaf54baac8d2a1fed9be29e721ef9b0a973da1c31aa8bb653deed27c2aaf2cc3f56b8c159af5df99cf2521f654c9d05116545725edb44b8989ee34b6c81a26710474d699926a2a9e8d0ae741c9a1e64b66cf39a57a6aa83ce85fa98339513b0ca3d3cb0bbaf2a980d5c7d15e06c5bcf302528b0bfd006e5369b6a5e31a79821580cee4497f77c7ef8e817190541befefcf35162072055949afff14a2da894743e84123261fb06954396fb2a2bed015f39eb9b43798ccc8d44b4004e6ae66614bc3db94673d0322ebe86a5215bd12f9c566af82382f049d8f6ae9ddfcd61d8a14cad5b8918ca9a798b693dd2f1aa6f8cec7ad59ffa12340d2c8e131e4464f6413532f7ac3fa80c49bf45754c1502f5451d97fd4d0f24aa4b8096002d91017e74962f613fb7f366cab14b14a582c8c7982f9e6d5ebc7c412495a6eaf0ac34e2f8237aa8f63ff035d40c5be0b10531371a80314944aeb939c3d068624b18efed4386cf29aa58872cc798e8cace09c7cb46c9319d283a39b304b4f578f1b4ccd587cf779df2daaa5dda2d026bb9b989b15f0a9fe99a5e7e6bdd81dd3d60856d23774d99256cdbf0d1b30bfc602b04b64c840805468698e89ba6693d44e7de6970618fa1bfdc8156194fe703277d66b3888ad4e8c2c0c271e0da8c23ea9aeacc886ee747f29d2936539834a1f59f76fc6e39253af758f94bbad7b53c52c358f25ec81bb14fa98f0c228d1c3c493278230b58f62036985b99caac7bfeffd92e270ca2434e35a638f7856b7a8b79807fbb8a9b9d2c1f1c9aeeb1c8ca54de77156fdc8e8870a7de39ad4d52e8a76e735e01bede7844560f65501ab698bf49a78ed16af5f2a5c2e1fd7c71dd0bd516924d53ee9c224e865c61b17952c91e564157e37c381d452346f74760b3687a034dfc495d9ace7b3cf60d44c7e836a9c2ca816475f2ae3a65a081310c325d043e5f1e411cf7afcf4da2f7786b5109f9ffcdda8f4d6aefd684d7788d585e094674b48aedd282534707793abada9b811145cd38913acd8418882ba42aa740158ea2d036e8a774e0a1ec96e5af5bc57f2aaa68e0bbcd9e26a4fb83753e142ec59f4d87170a6e6168d0164a6d2ba2902b3362d2778b2c62318b2716e971de8b73d2288ae60d0c246829c501a7d75a9923719bf9ced02f00d7caff9cfb8cbdd1c14d4ccca8a88069fa201e987ae21abf1cfeb9f0a2533c7818ebcd715ab1e94c3e2139405750dd1d3468bee77d3c968146de345d4270a3dc825e1375aa9b51e28f41b837a3ee94cae70385f4b23ac694209cfbc788cd0d61f69d6931efbd87fb16c569011706a80cb357d22b6b1dff64a32d17e4d2f2d159c2684b8d5b61259033dca20c562de1bbbf31c537394fbe08abd53d6075ab7aecc9293a2b29e588ab4746f830c7289c5e6b7d631bff7369c56d8280fe0499b1e7f76a389c6d84f4fd3031671d0f2aa9b6123e9b1920f36dbc1fcda7177c5a5cc14f067e98da40f6278e9c0f9ad34e0cc317e12b26bedeac9c59d5e0fd158ec757ee8aa6eff8bd44bdcbe934b188d0224ff8a252e920252bb218bacec37d7c62cf28e4d40bb61009c7a2019f2aae8771ed85b92be8c4d816ed10d31a3a1edce05ed5926aae4afd399928354e367baa24988f5f8eda925945df726f5c71932fbd7ee9fdb66c6415195804f32d78cafcc6ec63738739aace59ec5ce0c78d209f97bb591b8095370fa0cba75041157a8f3b7d3daca0a03e118b45c51ed4719902bffe06b76c13123e8e8259346b711ea662dcddfe48b5b662b730d252c2d427aae95c49e5570727cf840e65109455f97c1474d8dc17933c9a2e8d9febdbe52f02d44c43e69542f60b87f98fde02597962fa175ef1680a9e7d48ea0c998b26c253b511b3c19829a075762a5b0e622601a35d37bf88642f5c09aa886ebfc144aeafae7e83ef79ae5ddd2d9f312783f2f7966faf23d27f03346336d468fffc479183cf4c7bbf519d861117aad17fb2a9de3765aac65d3059e2ccfe3f20980fb6ceea",
   "account": {
     "displayTitle": true,
     "displayVIP": true
@@ -576,29 +576,39 @@
   "readonly": false,
   "localIPs": [
     "127.0.0.1",
-    "172.17.0.1",
-    "10.14.10.10",
-    "172.18.0.1",
+    "192.168.127.100",
+    "192.168.1.105",
+    "192.168.127.102",
+    "169.254.221.18",
+    "169.254.73.239",
+    "169.254.241.245",
+    "169.254.221.40",
+    "169.254.251.80",
+    "169.254.144.96",
+    "169.254.112.237",
     "[::1]",
-    "[fe80::cf41:7b30:4af4:2700]",
-    "[fe80::1430:93ff:fed5:dc0f]",
-    "[fe80::487d:b7ff:feec:763c]"
+    "[fe80::dd2:2a1:e51e:b396]",
+    "[fe80::7e24:6626:9735:30f8]",
+    "[fe80::8f23:6d34:c529:6b58]",
+    "[fe80::79a0:475d:8982:3f5b]",
+    "[fe80::342f:a38:d016:b1b]",
+    "[fe80::1c4e:6cf3:372c:1b64]"
   ],
   "accessAuthCode": "",
   "system": {
-    "id": "d42b162b17c544ca8756406a21ba0235",
-    "name": "tianyu-SER",
+    "id": "a67c3f4e-58e6-43e8-b950-d9b93fc6f86c",
+    "name": "Multivac",
     "kernelVersion": "3.3.2",
-    "os": "linux",
-    "osPlatform": "ubuntu",
+    "os": "windows",
+    "osPlatform": "Microsoft Windows 11 Home China",
     "container": "std",
     "isMicrosoftStore": false,
     "isInsider": false,
-    "homeDir": "/home/tianyu",
-    "workspaceDir": "/home/tianyu/SiYuan",
-    "appDir": "/opt/SiYuan/resources",
-    "confDir": "/home/tianyu/SiYuan/conf",
-    "dataDir": "/home/tianyu/SiYuan/data",
+    "homeDir": "C:\\Users\\w1445",
+    "workspaceDir": "D:\\siyuan_workspace",
+    "appDir": "C:\\Users\\w1445\\SiYuan\\resources",
+    "confDir": "D:\\siyuan_workspace\\conf",
+    "dataDir": "D:\\siyuan_workspace\\data",
     "networkServe": false,
     "networkProxy": {
       "scheme": "",
@@ -609,7 +619,7 @@
     "autoLaunch2": 0,
     "lockScreenMode": 0,
     "disabledFeatures": [],
-    "microsoftDefenderExcluded": false
+    "microsoftDefenderExcluded": true
   },
   "keymap": {
     "editor": {
@@ -1360,7 +1370,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.3.2 std/linux",
+      "apiUserAgent": "SiYuan/3.3.2 std/windows",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1370,13 +1380,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 12,
+    "treeCount": 10,
     "cTreeCount": 100,
-    "blockCount": 421,
+    "blockCount": 135,
     "cBlockCount": 5000,
-    "dataSize": 13893499,
+    "dataSize": 34599015,
     "cDataSize": 104857600,
-    "assetsSize": 13062053,
+    "assetsSize": 11954527,
     "cAssetsSize": 104857600
   },
   "api": {
